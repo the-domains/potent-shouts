@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Potent Shouts]]></title>
-        <description><![CDATA[Potent Shouts]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Potent Shouts Blog]]></title>
+        <description><![CDATA[Potent Shouts Blog]]></description>
+        <link>https://thegrid.ai/potent-shouts/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 09:46:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Jan 2016 09:59:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/potent-shouts/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f798f54-4cb0-4d23-9266-ac5a93c02e09.jpg">]]></description>
+            <link>https://thegrid.ai/potent-shouts/8693ad28-01b2-4359-a83c-b6e3b3f57d0c/index.html</link>
+            <guid isPermaLink="false">8693ad28-01b2-4359-a83c-b6e3b3f57d0c</guid>
+            <pubDate>Wed, 27 Jan 2016 09:59:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>]]></description>
-            <link>undefinedc6bf2dd7-1a5e-45e7-93b3-a4f3b32588b1/index.html</link>
+            <link>https://thegrid.ai/potent-shouts/c6bf2dd7-1a5e-45e7-93b3-a4f3b32588b1/index.html</link>
             <guid isPermaLink="false">c6bf2dd7-1a5e-45e7-93b3-a4f3b32588b1</guid>
             <pubDate>Wed, 27 Jan 2016 09:45:18 GMT</pubDate>
         </item>
